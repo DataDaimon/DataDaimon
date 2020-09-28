@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Rick. I work as a full-time software engineer. In my spare time I do open-sourcing.
+
+
 <!--
 **RickOrTreat/RickOrTreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
