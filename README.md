@@ -7,7 +7,9 @@ I'm Rick. I work as a full-time software engineer. In my spare time I do open-so
 ✨ Facts you might be wondering about
 
 🔭 Currently working on: AWS, Serverless architecture, Python, Django, Bootstrap, Javascript
+
 ⚡ Getting better at: System design principal, AWS components
+
 🌟 Experienced project domain: Trivia game, Personal health management, SEO tools, Archived video streaming, Ads Recommender, Live Gaming Ranklist, Real-time opponent match making
 🌱 Discovering queue: React.js, Node.js, GraphQL
 💬 Ask me about: Serverless architecture, DynamoDB, AWS Lambda, MTV
