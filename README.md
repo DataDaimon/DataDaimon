@@ -1,6 +1,6 @@
 <p align="center">
   Hello there 👋 I'm Rick Flores 😃  
-<hr> 
+  <hr> 
   Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
 </p>
 
