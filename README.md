@@ -1,5 +1,5 @@
 <h2> <p align="center"> Hello there 👋 I'm Rick Flores 😃 </h2>
-  <hr> 
+   
 <p align="center"> 
   Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
 </p>
