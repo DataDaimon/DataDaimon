@@ -1,6 +1,6 @@
-<h3>                                                               Hello there 👋 I'm Rick Flores 😃  
+Hello there 👋 I'm Rick Flores 😃  
 <hr> 
-                                                            Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
+Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
 
 
 I'm Rick. I work as a full-time software engineer. In my spare time I do open-sourcing.
