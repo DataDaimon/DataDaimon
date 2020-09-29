@@ -1,5 +1,5 @@
 <p align="center">
-### Hello there 👋 I'm Rick Flores 😃
+<h3> Hello there 👋 I'm Rick Flores 😃
   
 <hr> 
 
