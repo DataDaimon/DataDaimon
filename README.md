@@ -5,16 +5,26 @@
 </p>
 
 
-I'm Rick. I work as a full-time software engineer. In my spare time I do open-sourcing.
+I'm Rick, Physicist, Mathematician, and Python Enthusiast. 
+
+I attended University in Texas where I graduated in 2019, earning my BSc in Atomic Physics. 
+
+I have had the pleasure to live in West Texas, San Francisco, and now South Korea.
+
+I am a former IT Engineer having worked at Facebook, Genentech, and Johnson & Johnson.
+
+I sincerely hope my Python repositories and code will be useful to you.
+
+Thanks for stopping by!
 
 ✨ Facts you might be wondering about
 
-🔭 Currently working on: AWS, Serverless architecture, Python, Django, Bootstrap, Javascript
-⚡ Getting better at: System design principal, AWS components
-🌟 Experienced project domain: Trivia game, Personal health management, SEO tools, Archived video streaming, Ads Recommender, Live Gaming Ranklist, Real-time opponent match making
-🌱 Discovering queue: React.js, Node.js, GraphQL
-💬 Ask me about: Serverless architecture, DynamoDB, AWS Lambda, MTV
-☕ Learn more about me: Have a ride on darkprinx.xyz
+🔭 Currently working on: 
+⚡ Getting better at: 
+🌟 Experienced project domain: 
+🌱 Discovering queue: 
+💬 Ask me about: 
+☕ Learn more about me: 
 📫 How to reach me: knock! knock! at rmflores6@gmail.com
 💜 Personal Interest: Programming, Philosophy, Psychology
 
