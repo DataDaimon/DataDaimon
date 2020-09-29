@@ -1,5 +1,6 @@
 <p align="center">
-  <h3> Hello there 👋 I'm Rick Flores 😃  
+  <h3> 
+    Hello there 👋 I'm Rick Flores 😃  
   <hr> 
 <p align="center"> 
   Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
