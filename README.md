@@ -1,7 +1,7 @@
 <h2> <p align="center"> Hello there 👋 I'm Rick Flores 😃 </h2>
    
 <p align="center"> 
-  Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
+  Software Developer 🌱 IT Engineer 🌱 Explorer
 </p>
 
 <br>
