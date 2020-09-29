@@ -15,7 +15,7 @@ Thanks for stopping by! <br><br>
 
 ✨ Facts you might be wondering about <br>
 
-🔭 Currently working on: Attending 'Fundamentals of Computing' at Rice University. <br> 
+🔭 Currently working on: 'Fundamentals of Computing' at Rice University. <br> 
 ⚡ Getting better at: Probability, Combinatorics, Algorithmic Efficiency. <br>
 🌱 Discovering queue: Machine Learning, Data Science<br>
 💬 Ask me about: Python, Physics, Guitar. <br>
