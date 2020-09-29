@@ -1,7 +1,7 @@
 <p align="center">
-Hello there 👋 I'm Rick Flores 😃  
+  Hello there 👋 I'm Rick Flores 😃  
 <hr> 
-Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
+  Software Engineer 🌱 Mindful Explorer 🌱 Ambivert
 </p>
 
 
