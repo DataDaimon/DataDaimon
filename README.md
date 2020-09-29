@@ -11,7 +11,7 @@ I have had the pleasure to live in West Texas, San Francisco, and now South Kore
 I am a former IT Engineer having worked at Facebook, Genentech, and Johnson & Johnson.
 I sincerely hope my Python repositories and code will be useful to you.
 Thanks for stopping by!
-
+<br>
 ✨ Facts you might be wondering about
 
 🔭 Currently working on: Attending 'Fundamentals of Computing' at Rice University. <br> 
