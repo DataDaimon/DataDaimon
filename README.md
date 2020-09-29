@@ -19,14 +19,14 @@ Thanks for stopping by!
 
 ✨ Facts you might be wondering about
 
-🔭 Currently working on: 
-⚡ Getting better at: 
-🌟 Experienced project domain: 
-🌱 Discovering queue: 
-💬 Ask me about: 
-☕ Learn more about me: 
-📫 How to reach me: knock! knock! at rmflores6@gmail.com
-💜 Personal Interest: Programming, Philosophy, Psychology
+🔭 Currently working on: <br> 
+⚡ Getting better at: <br>
+🌟 Experienced project domain: <br>
+🌱 Discovering queue: <br>
+💬 Ask me about: <br>
+☕ Learn more about me: <br>
+📫 How to reach me: knock! knock! at rmflores6@gmail.com <br>
+💜 Personal Interest: Programming, Philosophy, Psychology <br>
 
 
 <!--
