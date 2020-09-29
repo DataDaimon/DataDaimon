@@ -6,15 +6,10 @@
 
 
 I'm Rick, Physicist, Mathematician, and Python Enthusiast. 
-
 I attended University in Texas where I graduated in 2019, earning my BSc in Atomic Physics. 
-
 I have had the pleasure to live in West Texas, San Francisco, and now South Korea.
-
 I am a former IT Engineer having worked at Facebook, Genentech, and Johnson & Johnson.
-
 I sincerely hope my Python repositories and code will be useful to you.
-
 Thanks for stopping by!
 
 ✨ Facts you might be wondering about
