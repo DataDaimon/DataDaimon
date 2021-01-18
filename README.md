@@ -20,7 +20,7 @@ Thanks for stopping by! <br><br>
 🌱 Discovering queue: Machine Learning, Data Science<br>
 💬 Ask me about: Python, Physics, Guitar. <br>
 ☕ Learn more about me: linkedin.com/in/TheRealRick<br>
-📫 How to reach me: knock! knock! at rmflores6@gmail.com <br>
+📫 How to reach me: knock! knock! at u4rick@protonmail.com <br>
 💜 Personal Interest: Programming, Philosophy, Psychology <br><br><br>
 
 <p align="center">
