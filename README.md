@@ -1,15 +1,16 @@
-<h2> <p align="center"> Hello there 👋 I'm Rick Flores 😃 </h2>
+<h2> <p align="center"> Hello there 👋 I'm Rick 😃 </h2>
    
 <p align="center"> 
-  Software Developer 🌱 IT Engineer 🌱 Explorer
+  Master of Science Data Analytics 🌱 Physicist 🌱 Explorer
 </p>
 
 <br>
-Hi, I'm Rick, a Physicist, Mathematician, and Python Enthusiast. 
-I attended University in Texas where I graduated in 2019, earning my BSc in Atomic Physics. 
-I have had the pleasure to live in West Texas, San Francisco, and now South Korea.
+Hi, I'm Rick, a Data Analyst, Physicist, and Python Guru. 
+I attended University in Texas and graduated in 2019 with BSc in Physics.
+I'm currently a Graduate Student in Data Analysis.
+I have had the pleasure to live in Texas, California, and South Korea.
 I am a former IT Engineer having worked at Facebook, Genentech, and Johnson & Johnson.
-I sincerely hope my Python repositories and code will be useful to you.
+I hope my Python repositories will be useful to you.
 Thanks for stopping by! <br><br>
 
 
@@ -17,7 +18,7 @@ Thanks for stopping by! <br><br>
 
 🔭 Currently working on: 'Fundamentals of Computing' at Rice University. <br> 
 ⚡ Getting better at: Probability, Combinatorics, Algorithmic Efficiency. <br>
-🌱 Discovering queue: Machine Learning, Data Science<br>
+🌱 Discovering queue: Machine Learning, Data Science. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
 ☕ Learn more about me: linkedin.com/in/TheRealRick<br>
 📫 How to reach me: knock! knock! at u4rick@protonmail.com <br>
