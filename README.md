@@ -9,7 +9,7 @@ Hi, I'm Rick, a Graduate Student at Western Governors University in the Master o
 Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.
 I have had the pleasure to live in Texas, California, and South Korea.
 I am a former IT Engineer having worked at Facebook, Genentech, and Johnson & Johnson.
-I hope my Python repositories will be useful to you.
+I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>
 
 
@@ -19,8 +19,8 @@ Thanks for stopping by! <br><br>
 ⚡ Getting better at: Machine Learning, Neural Networks, Big Data. <br>
 🌱 Discovering queue: Data Science Mathematics. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
-☕ Learn more about me: linkedin.com/in/TheRealRick<br>
-📫 How to reach me: knock! knock! at rmflores6@gmail.com <br>
+☕ Learn more about me: linkedin.com/in/DataDaimon<br>
+📫 How to reach me: knock! knock! at rflo147@wgu.edu <br>
 💜 Personal Interest: Programming, Philosophy, Cooking <br><br><br>
 
 <p align="center">
