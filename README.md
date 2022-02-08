@@ -1,7 +1,7 @@
 <h2> <p align="center"> Hello there 👋 I'm Rick 😃 </h2>
    
 <p align="center"> 
-  Master of Science Data Analytics 🌱 Physicist 🌱 Explorer
+  Master of Science, Data Analytics 🌱 Physicist 🌱 Explorer
 </p>
 
 <br>
