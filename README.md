@@ -5,17 +5,17 @@
 </p>
 
 <br>
-Hi, I'm Rick, a Graduate Student at Western Governors University in the Master of Science Data Analytics program. 
+Hi, I'm Rick, a PhD student in Data Science and a recent graduate of the Western Governors University Master of Science Data Analytics program.
 Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.
 I have had the pleasure to live in Texas, California, and South Korea.
-I am a former IT Engineer having worked at Facebook, Genentech, and Johnson & Johnson.
+I have had the opportunity to do Data Science as a Research Assistant in Biophotonics as well as a Physics Teaching Assistant and Tutor.
 I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>
 
 
 ✨ Facts you might be wondering about <br>
 
-🔭 Currently working on: Deep Study of Multiple and Linear Regression. <br> 
+🔭 Currently working on: Deep Study of Statistics and Regression algorithms. <br> 
 ⚡ Getting better at: Machine Learning, Neural Networks, Big Data. <br>
 🌱 Discovering queue: Data Science Mathematics. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
