@@ -24,7 +24,7 @@ Thanks for stopping by! <br><br>
 💜 Personal Interest: Programming, Philosophy, Cooking <br><br><br>
 
 <p align="center">
-  <img width="460" height="300" src="https://i.pinimg.com/736x/6c/b8/31/6cb83132a48d7d924c601d52689b254a--cool-gadgets-super.jpg">
+  <img width="620" height="330" src="https://i.pinimg.com/736x/6c/b8/31/6cb83132a48d7d924c601d52689b254a--cool-gadgets-super.jpg">
 </p><br><br>
 
 <!--
