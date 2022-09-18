@@ -1,4 +1,4 @@
-<h2> <p align="center"> Hello there 👋 I'm Rick 😃 </h2>
+<h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>
    
 <p align="center"> 
   Master of Science, Data Analytics 🌱 Physicist 🌱 Explorer
