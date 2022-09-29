@@ -1,13 +1,13 @@
 <h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>
    
 <p align="center"> 
-  PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning  
+  PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning
 </p>
 
 <br>
-Hi, I'm Rick, a PhD student in Data Science and a recent graduate of the Western Governors University Master of Science Data Analytics program.  
+Hi, I'm Rick, a PhD student in Data Science and a recent graduate of the Western Governors University Master of Science Data Analytics program.
 Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.
-I have had the pleasure to live in Texas, California, and South Korea.  
+I have had the pleasure to live in Texas, California, and South Korea.
 I have experience in Data Science as a Research Assistant in Biophotonics.
 I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>
