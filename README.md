@@ -13,16 +13,18 @@ I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>
 
 
-✨ Facts you might be wondering about <br>
+✨ Facts you might be wondering about:<br><br>
 
-🔭 Currently working on: Deep Study of Statistics and Regression algorithms. <br> 
-⚡ Getting better at: Machine Learning, Neural Networks, Big Data. <br>
-🌱 Discovering queue: Statistics and Differential Equations. <br>
-💬 Ask me about: Python, Physics, Guitar. <br>
-☕ Learn more about me: linkedin.com/in/DataDaimon<br>
-📫 How to reach me: knock! knock! at rflo147@wgu.edu <br>
-📫 Telegram: @datadaimon
-💜 Personal Interest: Programming, Astronomy, Cooking. <br><br><br>
+            🔭 Currently working on: Deep Study of Statistics and Regression algorithms.<br>
+            ⚡ Getting better at: Machine Learning, Neural Networks, Big Data.<br>
+            🌱 Discovering queue: Python Algorithms and Data Structures.<br>
+            💬 Ask me about: Python, Physics, Guitar.<br>
+            ☕ Learn more about me: <a href="linkedin.com/in/DataDaimon">LinkedIn</a><br>
+            📫 How to reach me: knock! knock! at <a href="mailto:rflo147@wgu.edu">rflo147@wgu.edu</a><br>
+            🐱 My Github Projects: <a href="https://github.com/DataDaimon">DataDaimon</a><br>
+            🐤 Twitter: <a href="https://twitter.com/datadaimon">@datadaimon</a><br>
+            💜 Personal Interest: <a href="https://youtu.be/dCb1FLGcxs8">Guitar</a>, <a href="https://www.goodreads.com/review/list/81336759?ref=nav_mybooks">Literature</a>, <a href="https://www.youtube.com/watch?v=5RJnxhbBgC4">Molecular Gastronomy.</a><br>
+            📖 <a href="blog.html">Blog</a>
 
 <p align="center">
   <img width="620" height="330" src="https://i.pinimg.com/736x/6c/b8/31/6cb83132a48d7d924c601d52689b254a--cool-gadgets-super.jpg">
