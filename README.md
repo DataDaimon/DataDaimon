@@ -10,7 +10,7 @@ Previously, I attended university in Texas and graduated in 2019 with BSc in Phy
 I have had the pleasure to live in Texas, California, and South Korea.
 I have experience in Data Science as a Research Assistant in Biophotonics.
 I hope my Data Science repositories will be useful to you.
-Thanks for stopping by! <br><br>
+Thanks for stopping by! <br><br>   
 
 
 ✨ Facts you might be wondering about <br>      
