@@ -13,7 +13,7 @@ I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>
 
 
-✨ Facts you might be wondering about <br>
+✨ Facts you might be wondering about <br>   
 
 🔭 Currently working on: Deep Study of Statistics and Regression algorithms. <br> 
 ⚡ Getting better at: Machine Learning, Neural Networks, Big Data. <br>
