@@ -3,7 +3,7 @@
 <p align="center">
   PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning    
 </p>         
-      
+   
 <br>   
 Hi, I'm Rick, a PhD student in Data Science and a recent graduate of the Western Governors University Master of Science Data Analytics program.  
 Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.
