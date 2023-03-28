@@ -1,8 +1,8 @@
 <h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>  
          
 <p align="center">
-  PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning 
-</p>    
+  PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning
+</p>
     
 <br>
 Hi, I'm Rick, a PhD student in Data Science and a recent graduate of the Western Governors University Master of Science Data Analytics program.  
