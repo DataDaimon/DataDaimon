@@ -1,7 +1,7 @@
 <h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>  
          
 <p align="center">
-  PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning  
+  PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning
 </p>      
     
 <br>
