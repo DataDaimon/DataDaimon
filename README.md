@@ -20,7 +20,7 @@ Thanks for stopping by! <br><br>
 🌱 Discovering queue: Statistics and Differential Equations. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
 ☕ Learn more about me: linkedin.com/in/DataDaimon<br>
-📫 How to reach me: knock! knock! at rflo147@wgu.edu <br>
+📫 How to reach me: knock! knock! at datadaimon@outlook.com <br>
 📫 Telegram: @datadaimon
 💜 Personal Interest: Programming, Astronomy, Cooking. <br><br><br>
 
