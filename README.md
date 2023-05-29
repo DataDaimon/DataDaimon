@@ -1,11 +1,12 @@
 <h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>
-           
+              
 <p align="center">
   PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning
 </p>
 
 <br>
-Hi, I'm Rick, a Graduate tudent in Machine Learning and a recent graduate of the Western Governors University Master of Science Data Analytics program.  
+Hi, I'm Rick, a Graduate student in Machine Learning at Stanford.
+I also have an MBA and MSc in Data Analytics.  
 Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.    
 I have had the pleasure to live in Texas, California, and South Korea.
 I have experience in Data Science as a Research Assistant in Biophotonics.
