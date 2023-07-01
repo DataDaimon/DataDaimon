@@ -3,7 +3,7 @@
 <p align="center">    
   PhD, Data Science 🌱 Big Data - Spark 🌱 Machine Learning
 </p>
-
+   
 <br>
 Hi, I'm Rick, a Graduate student in Machine Learning at Stanford.
 I also have an MBA and MSc in Data Analytics.  
