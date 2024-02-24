@@ -5,11 +5,11 @@
 </p>
    
 <br>
-Hi, I'm Rick, a Data Analyst at NASA and Graduate student in Machine Learning at Stanford.
-I also have an MBA and MSc in Data Analytics.  
+Hi, I'm Rick, a Lead Data Analyst at NASA and PhD student in Data Science.
+I also have an MBA, MS in Data Analytics and BS in Physics.  
 Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.    
-I have had the pleasure to live in Texas, California, and South Korea.
-I have experience in Data Science as a Research Assistant in Biophotonics.
+I am American and have had the pleasure of visiting Mexico, South Korea, Dubai, Israel, and Palestine. 
+I have 10 years experience in Data Analytics and comprehensive front and back end development.
 I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>   
 
