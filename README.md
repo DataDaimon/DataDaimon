@@ -6,8 +6,7 @@
    
 <br>
 Hi, I'm Rick, a Lead Data Analyst at NASA and PhD student in Data Science.
-I also have an MBA, MS in Data Analytics and BS in Physics.  
-Previously, I attended university in Texas and graduated in 2019 with BSc in Physics.    
+I also have an MBA, MS in Data Analytics and BS in Physics.      
 I am American and have had the pleasure of visiting Mexico, South Korea, Dubai, Israel, and Palestine. 
 I have 10 years experience in Data Analytics and comprehensive front and back end development.
 I hope my Data Science repositories will be useful to you.
