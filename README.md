@@ -20,9 +20,8 @@ Thanks for stopping by! <br><br>
 🌱 Discovering queue: Statistics and Differential Equations. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
 ☕ Learn more about me: linkedin.com/in/DataDaimon<br>
-📫 How to reach me: knock! knock! at datadaimon@outlook.com <br>
-📫 Telegram: @datadaimon
-💜 Personal Interest: Programming, Astronomy, Cooking. <br><br><br>
+📫 How to reach me: knock! knock! at richard.m.flores@nasa.gov <br>
+💜 Personal Interest: Programming, Astronomy, Cooking, Guitar. <br><br><br>
 
 <p align="center">
   <img width="620" height="330" src="https://i.pinimg.com/736x/6c/b8/31/6cb83132a48d7d924c601d52689b254a--cool-gadgets-super.jpg">
