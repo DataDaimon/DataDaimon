@@ -7,7 +7,7 @@
 <br>
 Hi, I'm Rick, a Lead Data Analyst at NASA and PhD student in Data Science.
 I also have an MBA, MS in Data Analytics and BS in Physics.      
-I am American and have had the pleasure of visiting Mexico, South Korea, Dubai, Israel, and Palestine. 
+I am American and have had the pleasure of visiting Mexico, Japan, South Korea, Dubai, Israel, and Palestine. 
 I have 10 years experience in Data Analytics and comprehensive front and back end development.
 I hope my Data Science repositories will be useful to you.
 Thanks for stopping by! <br><br>   
@@ -17,7 +17,7 @@ Thanks for stopping by! <br><br>
 
 🔭 Currently working on: Deep Study of Statistics and Regression algorithms. <br> 
 ⚡ Getting better at: Machine Learning, Neural Networks, Big Data. <br>
-🌱 Discovering queue: Statistics and Differential Equations. <br>
+🌱 Discovering queue: Statistics and Stochastic Differential Equations. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
 ☕ Learn more about me: linkedin.com/in/DataDaimon<br>
 📫 How to reach me: knock! knock! at richard.m.flores@nasa.gov <br>
