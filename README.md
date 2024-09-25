@@ -5,11 +5,7 @@
 </p>
    
 <br>
-Hi, I'm Rick, a Lead Data Analyst at NASA and PhD student in Data Science.
-I also have an MBA, MS in Data Analytics and BS in Physics.      
-I am American and have had the pleasure of visiting Mexico, Japan, South Korea, Dubai, Israel, and Palestine. 
-I have 10 years experience in Data Analytics and comprehensive front and back end development.
-I hope my Data Science repositories will be useful to you.
+I am a Data Scientist in the Space Mission Analysis Branch at NASA, specializing in applying advanced machine learning and artificial intelligence methods to aerospace data analysis. With a strong background in predictive modeling, natural language processing, and deep learning, I develop innovative solutions to support space mission planning and analysis. My research interests include cognitive modeling and neuromorphic computing, aiming to advance AI applications in aerospace engineering.
 Thanks for stopping by! <br><br>   
 
 
