@@ -23,7 +23,7 @@ This blend of financial acumen and technical skill has allowed me to contribute 
 🌱 Discovering queue: Statistics and Stochastic Differential Equations. <br>
 💬 Ask me about: Python, Physics, Guitar. <br>
 ☕ Learn more about me: linkedin.com/in/DataDaimon<br>
-📫 How to reach me: knock! knock! at richard.m.flores@nasa.gov <br>
+📫 How to reach me: knock! knock! at datadaimon@outlook.com <br>
 💜 Personal Interest: Programming, Astronomy, Cooking, Guitar. <br><br><br>
 
 <p align="center">
