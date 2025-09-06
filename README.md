@@ -5,8 +5,15 @@
 </p>
    
 <br>
-I am a Data Scientist in the Space Mission Analysis Branch at NASA, specializing in applying advanced machine learning and artificial intelligence methods to aerospace data analysis. With a strong background in predictive modeling, natural language processing, and deep learning, I develop innovative solutions to support space mission planning and analysis. My research interests include cognitive modeling and neuromorphic computing, aiming to advance AI applications in aerospace engineering.
-Thanks for stopping by! <br><br>   
+“The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs<br>
+
+As a Financial Analyst at NASA, I specialize in comprehensive financial modeling and quantitative risk analysis for multi-billion-dollar aerospace initiatives. My primary role is to safeguard pioneering projects by ensuring their financial integrity, from vendor due diligence to long-term performance forecasting.<br>
+
+My expertise is rooted in corporate finance, asset valuation, and risk management. This includes building multi-statement integrated models (DCF), constructing stochastic simulations (Monte Carlo) to stress-test outcomes, and performing rigorous capital budgeting (NPV/IRR). By analyzing performance data like Earned Value Management (EVM) metrics, I provide leadership with a clear view of project financial health. <br>
+
+What distinguishes my approach is the use of advanced data analytics to deepen this financial analysis. I engineer the automated pipelines and build the interactive dashboards necessary to move beyond static spreadsheets, providing dynamic, real-time insights into KPIs, budget variances, and supply chain risk.<br>
+
+This blend of financial acumen and technical skill has allowed me to contribute at a strategic level, including serving as NASA's AI Advisor to the National Science Foundation and advising on agency-wide strategy on NASA's stakeholder board. <br><br>   
 
 
 ✨ Facts you might be wondering about <br>      
