@@ -1,7 +1,7 @@
 <h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>
                                    
 <p align="center">    
-  **Data Science 🌱 Big Data 🌱 Machine Learning**
+  **Data Science 🌱 Big Data 🌱 Machine Learning
 </p>
    
 <br>
