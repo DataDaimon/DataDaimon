@@ -11,7 +11,7 @@ As a Data Scientist at NASA, I specialize in comprehensive financial modeling an
 
 What distinguishes my approach is the use of advanced data analytics to deepen this financial analysis. I engineer the automated pipelines and build the interactive dashboards necessary to move beyond static spreadsheets, providing dynamic, real-time insights into KPIs, budget variances, and supply chain risk.<br>
 
-This blend of financial acumen and technical skill has allowed me to contribute at a strategic level, including serving as NASA's AI Advisor to the National Science Foundation and advising on agency-wide strategy on NASA's stakeholder board. <br><br>   
+This blend of financial acumen and technical skill has allowed me to contribute at a strategic level, including serving as NASA's AI Advisor to the National Science Foundation and advising on agency-wide strategy on the NASA and Microsoft stakeholder board. <br><br>   
 
 ✨ Facts you might be wondering about <br>      
 
