@@ -14,7 +14,7 @@ At NASA I architect data pipelines, real-time decision analytics, and technical 
 
 My research agenda focuses on practical and theoretical pathways toward safe, cooperative, and generalizable AI. I study neuromorphic hardware-software co-design to reduce latency and energy cost for continual online learning, and I use cooperative game theory to formalize multi-agent credit assignment, incentive alignment, and distributed value learning. I seek architecture and evaluation paradigms that are both scientifically audacious and immediately useful for aerospace and other safety-critical systems.
 
-Core strengths<br>
+Core strengths<br><br>
 •	Research domains: Neuromorphic computing; cooperative game theory; multi-agent systems; continual and meta learning; credit assignment and alignment.<br>
 •	ML & AI methods: Deep learning, Bayesian inference, reinforcement learning (policy gradients, off-policy), causal discovery, probabilistic programming.<br>
 •	Systems & hardware: Neuromorphic accelerators, model-hardware co-design, GPU/TPU pipelines, distributed model serving, on-edge continual learning.<br>
