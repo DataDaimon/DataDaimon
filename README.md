@@ -7,11 +7,36 @@
 <br>
 “The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs<br><br>
 
-As a Data Scientist at NASA, I specialize in comprehensive financial modeling and quantitative risk analysis for multi-billion-dollar aerospace initiatives. My primary role is to safeguard pioneering projects by ensuring their financial integrity, from vendor due diligence to long-term performance forecasting.<br>
 
-What distinguishes my approach is the use of advanced data analytics to deepen this financial analysis. I engineer the automated pipelines and build the interactive dashboards necessary to move beyond static spreadsheets, providing dynamic, real-time insights into KPIs, budget variances, and supply chain risk.<br>
+I am a Data Scientist and AI researcher at NASA’s Space Mission Analysis Branch within the Systems Analysis and Concepts Directorate, and a PhD candidate in Data Science at Northwestern University studying neuromorphic computing and cooperative game theory for AI. I combine rigorous financial and systems analysis for multi-billion-dollar aerospace programs with research-driven AI and ML engineering to advance robust, scalable intelligence for high-consequence domains.
 
-This blend of financial acumen and technical skill has allowed me to contribute at a strategic level, including serving as NASA's AI Advisor to the National Science Foundation and advising on agency-wide strategy on the NASA and Microsoft stakeholder board. <br><br>   
+At NASA I architect data pipelines, real-time decision analytics, and technical risk models that protect mission integrity across procurement, schedule, and operations. I apply modern ML methods from probabilistic modeling and uncertainty quantification to deep scalable learning and neuromorphic accelerators to convert static financial artifacts into dynamic, explainable decision systems. I also serve as an agency-level AI advisor, bridging research, systems engineering, and strategic policy across NASA and industry partners.
+
+My research agenda focuses on practical and theoretical pathways toward safe, cooperative, and generalizable AI. I study neuromorphic hardware-software co-design to reduce latency and energy cost for continual online learning, and I use cooperative game theory to formalize multi-agent credit assignment, incentive alignment, and distributed value learning. I seek architecture and evaluation paradigms that are both scientifically audacious and immediately useful for aerospace and other safety-critical systems.
+
+Core strengths
+•	Research domains: Neuromorphic computing; cooperative game theory; multi-agent systems; continual and meta learning; credit assignment and alignment.
+•	ML & AI methods: Deep learning, Bayesian inference, reinforcement learning (policy gradients, off-policy), causal discovery, probabilistic programming.
+•	Systems & hardware: Neuromorphic accelerators, model-hardware co-design, GPU/TPU pipelines, distributed model serving, on-edge continual learning.
+•	Engineering stack: Python, PyTorch, JAX, TensorFlow; AWS, Snowflake; dbt; SQL; containerization and orchestration (Docker, Kubernetes).
+•	Domain expertise: Aerospace systems analysis, financial modeling and risk quantification, explainability, safety-critical verification.
+
+Research
+1.	Cooperative game theoretical credit assignment for multi-agent learning
+    o	Formalize Shapley-inspired credit allocation methods that scale to temporally extended tasks.
+o	Apply to multi-vehicle coordination and distributed resource allocation, optimizing both team reward and individual incentive compatibility.
+
+2.	Modular, composable AGI curricula with provable transfer bounds
+o	Design architectures of specialized modules (perception, planning, memory) and protocols for gating and composition.
+o	Prove and empirically validate transfer generalization bounds under curriculum distributions, measure catastrophic forgetting.
+
+3.	Causal representation learning for robust generalization
+o	Learn disentangled causal factors using interventional-style data augmentation and invariance objectives.
+o	Integrate learned causal units into decision-making pipelines to improve OOD performance in mission scenarios.
+
+4.	Hybrid symbolic-neural meta-reasoning for long-horizon planning
+o	Combine symbolic planning primitives with neural heuristics and learned value functions for reasoning under partial observability.
+o	Benchmark on hierarchical mission planning tasks with sparse rewards.
 
 ✨ Facts you might be wondering about <br>      
 
