@@ -1,11 +1,11 @@
 <h2> <p align="center"> Hello there 👋 I'm Richard 😃 </h2>
                                    
 <p align="center">    
-  __Data Science 🌱 Big Data 🌱 Machine Learning__
+  Data Science 🌱 Big Data 🌱 Machine Learning
 </p>
    
 <br>
-*“The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs*<br><br>
+The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs<br><br>
 
 I am a Data Scientist and AI researcher at NASA’s Space Mission Analysis Branch within the Systems Analysis and Concepts Directorate, and a PhD candidate in Data Science at Northwestern University studying neuromorphic computing and cooperative game theory for AI. I combine rigorous financial and systems analysis for multi-billion-dollar aerospace programs with research-driven AI and ML engineering to advance robust, scalable intelligence for high-consequence domains.
 
