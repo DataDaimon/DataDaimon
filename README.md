@@ -7,11 +7,22 @@
 <br>
 The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs<br><br>
 
-I am a Data Scientist and AI researcher at NASA’s Space Mission Analysis Branch within the Systems Analysis and Concepts Directorate, and a PhD student in Data Science at NU studying neuromorphic computing and cooperative game theory for AI. I combine rigorous financial and systems analysis for multi-billion-dollar aerospace programs with research-driven AI and ML engineering to advance robust, scalable intelligence for high-consequence domains.
+I have always been driven by a single question: How do we build better models of the world? My career has been a journey through the different ways we answer that starting with the deterministic foundations of Physics and evolving into the high-stakes world of Operations Research and Data Science.
 
-At NASA I architect data pipelines, real-time decision analytics, and technical risk models that protect mission integrity across procurement, schedule, and operations. I apply modern ML methods from probabilistic modeling and uncertainty quantification to deep scalable learning and neuromorphic accelerators to convert static financial artifacts into dynamic, explainable decision systems. I also serve as an agency-level AI advisor, bridging research, systems engineering, and strategic policy across NASA and industry partners.
+During my three years as a Data Scientist at NASA, I focused on the intersection of large-scale datasets and mission-critical accuracy. Working in an environment where the margin for error is near zero taught me how to scale analytical models that are both robust and actionable. It wasn't just about the data; it was about the systems-level thinking required to support complex, multi-year objectives.
 
-My research agenda focuses on practical and theoretical pathways toward safe, cooperative, and generalizable AI. I study neuromorphic hardware-software co-design to reduce latency and energy cost for continual online learning, and I use cooperative game theory to formalize multi-agent credit assignment, incentive alignment, and distributed value learning. I seek architecture and evaluation paradigms that are both scientifically audacious and immediately useful for aerospace and other safety-critical systems.
+Currently I serve as a Modeling & Simulation Specialist. My work is focused on the architecture of decision-support systems. By leveraging my background in physics and data analytics, I develop high-fidelity simulations that help stakeholders navigate uncertainty and forecast outcomes in increasingly volatile environments. I view simulation not just as a tool, but as a laboratory for strategy.
+
+Beyond my professional role, I am currently a PhD student in Data Science. My research is dedicated to the evolution of Artificial General Intelligence (AGI) and its potential to redefine how we approach complex systems. I believe the next frontier of modeling lies in the bridge between human-centric game theory and autonomous agent-based systems.
+
+**Core Competencies**<br>
+
+- Developing computational frameworks for strategic forecasting and system dynamics.
+- MS in Data Analytics and 3+ years of experience in mission-critical environments.
+- MBA focused on the integration of technical innovation with organizational goals.
+- Deep interest in AGI, Quantum concepts, and advanced decision science.
+
+I am always open to connecting with fellow researchers, simulation architects, and data scientists working on the bleeding edge of complex system modeling.
 
 **Core strengths**<br>
  1. Research domains: Neuromorphic computing; cooperative game theory; multi-agent systems; continual and meta learning; credit assignment and alignment.<br>
