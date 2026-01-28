@@ -29,7 +29,7 @@ I am always open to connecting with fellow researchers, simulation architects, a
  2. ML & AI methods: Deep learning, Bayesian inference, reinforcement learning (policy gradients, off-policy), causal discovery, probabilistic programming.<br>
  3. Systems & hardware: Neuromorphic accelerators, model-hardware co-design, GPU/TPU pipelines, distributed model serving, on-edge continual learning.<br>
  4. Engineering stack: Python, PyTorch, JAX, TensorFlow; AWS, Snowflake; dbt; SQL; containerization and orchestration (Docker, Kubernetes).<br>
- 5. Domain expertise: Aerospace systems analysis, financial modeling and risk quantification, explainability, safety-critical verification.<br><br>
+ 5. Domain expertise: Aerospace systems analysis, financial modeling and risk quantification, explainability, safety-critical verification.<br>
 
 **Research**
 1.	Cooperative game theoretical credit assignment for multi-agent learning<br>
